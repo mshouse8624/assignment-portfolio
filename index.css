@@ -32,8 +32,18 @@
     padding-top: 1px;
 }
 
+.current-assignment-header {
+    border: 10px;
+    border-bottom: solid;
+}
+
 .future-assignment-div {
     color: red;
     background-color: rgb(255, 209, 201);
     padding-bottom: 8px;
+}
+
+.future-assignment-header {
+    border: 10px;
+    border-bottom: solid;
 }
